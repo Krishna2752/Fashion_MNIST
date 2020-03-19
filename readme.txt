@@ -1,0 +1,1 @@
+The following is an attempt at decoding the fashion MNIST dataset by the use of a Convolutional Neural Network and TensorFlow 2.0. The model achieved an 89% accuracy and is submitted as an ipynb file.
